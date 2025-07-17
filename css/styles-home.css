@@ -9,7 +9,7 @@ body {
     color: #333;
     background-image: 
         linear-gradient(rgba(202, 13, 13, 0.699), rgba(202, 13, 13, 0.699)), 
-        url('../assets/fund.jpg');
+        url('../assets/fundo.jpg');
     background-size: auto, 80px; 
 }
 
